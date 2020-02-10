@@ -23,9 +23,9 @@ int main(int argc, char *argv[]) {
 	
 	void lerEscrVet () { //procedimento para ler e escrever os vetores
 
-	printf ("Digite o n�mero de elementos de um vetor");
+	printf ("Digite o número de elementos de um vetor");
 	scanf ("%f", &vet1);
-	printf ("Digite o n�mero de elementos de um outro vetor");
+	printf ("Digite o número de elementos de um outro vetor");
 	scanf ("%f", &vet2);
 	
     };
@@ -34,7 +34,7 @@ int main(int argc, char *argv[]) {
 	
 	vetor = malloc(vet1[i]*sizeof(float));
 	  if (!vetor) {
-	  	printf ("Erro de aloca��o");
+	  	printf ("Erro de alocaçãoo");
     	};
 	  else {
 	  	for(i=0; i<TAM; i++){
@@ -44,7 +44,7 @@ int main(int argc, char *argv[]) {
 	  
 	p = malloc(vet2[i]*sizeof(float));
 	  if (!p){
-	  	printf ("Erro de aloca��o");
+	  	printf ("Erro de alocação");
 	  }
 	  	 else {
 	  	for(i=0; i<TAM; i++){
