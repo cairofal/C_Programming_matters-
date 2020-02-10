@@ -1,5 +1,5 @@
 /*
-Universideda Federal de São Carlos - Algoritimos e Progração_2.A2.2. 
+Universidade Federal de São Carlos - Algoritmos e Programação_2.A2.2. 
 Prática de Desenvolvimento : Alocação dinâmica de memória em C. 
 Desenvolvido por: Cairo Faleiros de Figueiredo
 Date: jul/2014
